@@ -18,6 +18,7 @@ Active implementation — Vite + React + TypeScript SPA. Planning docs coexist a
 **PolaEja** (formerly English SpellMaster) — a Vite + React + TypeScript SPA that teaches English spelling to Indonesian speakers using a "Spelling Law" approach (inspired by Tajwid rules for Quran reading).
 - Capacitor Android app with online-first mode (loads from Vercel)
 - GitHub Actions builds APK on push to `main`
+- `android/` is in `.gitignore`; CI generates it via `npx cap add android` then patches the Gradle config to exclude `kotlin-stdlib-jdk7/jdk8` (prevents duplicate class conflict with `kotlin-stdlib` 1.8.22 bundled in Capacitor)
 
 ## Auto-loaded instructions (via `opencode.json`)
 
