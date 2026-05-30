@@ -20,6 +20,7 @@ Active implementation — Vite + React + TypeScript SPA. Planning docs coexist a
 - GitHub Actions builds APK on push to `main`
 - `android/` is in `.gitignore`; CI generates it via `npx cap add android`, then generates icon/splash via `npx @capacitor/assets generate`, then patches Gradle to exclude `kotlin-stdlib-jdk7/jdk8`
 - `public/PolaEja.apk` served at `/PolaEja.apk`; download uses `window.open(url, '_blank')` to open external browser in native mode, or `<a download>` fallback on web
+- Android back button handled via `@capacitor/app` `backButton` event — navigates history back if possible, exits app otherwise
 
 ## Auto-loaded instructions (via `opencode.json`)
 
