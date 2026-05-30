@@ -1,18 +1,15 @@
-import { useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Capacitor } from '@capacitor/core';
-import { Browser } from '@capacitor/browser';
 import styles from './Footer.module.css';
 
 const APK_URL = '/PolaEja.apk';
-const FULL_APK_URL = 'https://belajarejaanbahasainggris.vercel.app/PolaEja.apk';
 
 export function Footer() {
   const navigate = useNavigate();
 
-  const handleDownload = useCallback(async () => {
+  const handleDownload = () => {
     if (Capacitor.isNativePlatform()) {
-      await Browser.open({ url: FULL_APK_URL });
+      window.open(APK_URL, '_blank');
     } else {
       const a = document.createElement('a');
       a.href = APK_URL;
@@ -21,7 +18,7 @@ export function Footer() {
       a.click();
       document.body.removeChild(a);
     }
-  }, []);
+  };
 
   return (
     <footer className={styles.footer}>
