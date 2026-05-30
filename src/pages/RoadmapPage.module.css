@@ -1,0 +1,123 @@
+.container {
+  padding: 24px;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.backBtn {
+  background: transparent;
+  color: #4ecca3;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.backBtn:hover {
+  text-decoration: underline;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 6px;
+}
+
+.subtitle {
+  color: #888;
+  font-size: 14px;
+  margin: 0 0 28px;
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.phase {
+  display: flex;
+  gap: 14px;
+  background: #1a1a2e;
+  border: 1px solid #2a2a4a;
+  border-radius: 12px;
+  padding: 16px 18px;
+}
+
+.phaseIcon {
+  font-size: 24px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.phaseBody {
+  flex: 1;
+  min-width: 0;
+}
+
+.phaseTitle {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 4px;
+}
+
+.phaseDesc {
+  color: #999;
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.phaseBadge {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 10px;
+  border-radius: 20px;
+}
+
+.done {
+  background: rgba(78, 204, 163, 0.15);
+  color: #4ecca3;
+  border: 1px solid rgba(78, 204, 163, 0.3);
+}
+
+.high {
+  background: rgba(233, 69, 96, 0.15);
+  color: #e94560;
+  border: 1px solid rgba(233, 69, 96, 0.3);
+}
+
+.mid {
+  background: rgba(240, 192, 64, 0.15);
+  color: #f0c040;
+  border: 1px solid rgba(240, 192, 64, 0.3);
+}
+
+.low {
+  background: rgba(136, 136, 136, 0.15);
+  color: #999;
+  border: 1px solid rgba(136, 136, 136, 0.3);
+}
+
+.note {
+  margin-top: 28px;
+  background: #16213e;
+  border-radius: 10px;
+  padding: 14px 18px;
+}
+
+.noteText {
+  color: #888;
+  font-size: 13px;
+  margin: 0;
+}
+
+.noteText code {
+  color: #4ecca3;
+  font-size: 13px;
+}

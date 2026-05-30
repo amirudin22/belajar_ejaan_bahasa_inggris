@@ -1,0 +1,160 @@
+.container {
+  padding: 24px;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.backBtn {
+  background: none;
+  border: none;
+  color: #888;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 4px;
+  transition: color 0.2s;
+}
+
+.backBtn:hover {
+  color: #e94560;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 800;
+  color: #fff;
+  margin: 0;
+}
+
+.subtitle {
+  color: #999;
+  font-size: 13px;
+  margin: -12px 0 24px;
+  padding-left: 42px;
+}
+
+.ruleCard {
+  background: #1a1a2e;
+  border: 1px solid #2a2a4a;
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.ruleCardGharib {
+  border-color: #e94560;
+}
+
+.ruleHeader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+}
+
+.badgeHukum {
+  background: #0f3460;
+  color: #4ecca3;
+}
+
+.badgeGharib {
+  background: #e94560;
+  color: #fff;
+}
+
+.ruleName {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.ruleExplanation {
+  color: #aaa;
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 0 0 14px;
+}
+
+.patternSection {
+  margin-bottom: 12px;
+}
+
+.patternLabel {
+  color: #888;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 6px;
+}
+
+.patternList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.patternTag {
+  background: #0f3460;
+  color: #e94560;
+  font-family: 'Courier New', monospace;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 6px;
+  border: 1px solid rgba(233, 69, 96, 0.3);
+}
+
+.wordExamples {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.wordRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(15, 52, 96, 0.4);
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+
+.wordKata {
+  font-family: 'Courier New', monospace;
+  font-size: 17px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.wordJebakan {
+  color: #e94560;
+}
+
+.wordArti {
+  color: #999;
+  font-size: 12px;
+  flex: 1;
+}
+
+.wordBaca {
+  color: #4ecca3;
+  font-size: 12px;
+  font-weight: 600;
+}

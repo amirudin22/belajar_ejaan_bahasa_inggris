@@ -1,0 +1,108 @@
+.container {
+  padding: 24px;
+  max-width: 520px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 8px;
+}
+
+.subtitle {
+  color: #aaa;
+  font-size: 14px;
+  margin: 0 0 24px;
+}
+
+.scoreCard {
+  background: #1a1a2e;
+  border: 1px solid #2a2a4a;
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.scoreNumber {
+  display: inline;
+  font-size: 64px;
+  font-weight: 800;
+  color: #4ecca3;
+}
+
+.scoreSuffix {
+  display: inline;
+  font-size: 24px;
+  font-weight: 600;
+  color: #888;
+}
+
+.scoreLabel {
+  color: #888;
+  font-size: 13px;
+  margin: 4px 0 0;
+}
+
+.grade {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 8px 0 0;
+}
+
+.reviewTitle {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0 0 12px;
+  text-align: left;
+}
+
+.reviewList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.reviewItem {
+  background: #1a1a2e;
+  border: 1px solid #2a2a4a;
+  border-radius: 10px;
+  padding: 12px 16px;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reviewKata {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.reviewArti {
+  color: #999;
+  font-size: 13px;
+}
+
+.homeBtn {
+  background: #e94560;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 14px 32px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.homeBtn:hover {
+  background: #d63850;
+  transform: scale(1.03);
+}

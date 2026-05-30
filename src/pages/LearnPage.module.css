@@ -1,0 +1,146 @@
+.container {
+  padding: 24px;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.backBtn {
+  background: none;
+  border: none;
+  color: #888;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 0 0 16px;
+  display: block;
+  transition: color 0.2s;
+}
+
+.backBtn:hover {
+  color: #e94560;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 8px;
+}
+
+.desc {
+  color: #999;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0 0 24px;
+}
+
+.ruleCard {
+  background: #1a1a2e;
+  border: 1px solid #2a2a4a;
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.ruleBadge {
+  display: inline-block;
+  background: #e94560;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+}
+
+.ruleName {
+  color: #e94560;
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+
+.ruleExplanation {
+  color: #bbb;
+  font-size: 14px;
+  line-height: 1.6;
+  margin: 0 0 16px;
+}
+
+.wordList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.wordItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #0f3460;
+  border-radius: 10px;
+  padding: 12px 16px;
+}
+
+.wordKata {
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  font-family: 'Courier New', monospace;
+}
+
+.wordJebakan {
+  color: #e94560;
+  font-weight: 700;
+}
+
+.wordArti {
+  color: #aaa;
+  font-size: 13px;
+  flex: 1;
+}
+
+.wordBaca {
+  color: #4ecca3;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.audioBtn {
+  background: none;
+  border: 1px solid #4ecca3;
+  color: #4ecca3;
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.audioBtn:hover {
+  background: rgba(78, 204, 163, 0.15);
+}
+
+.cta {
+  margin-top: 8px;
+  margin-bottom: 32px;
+}
+
+.latihanBtn {
+  background: #e94560;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 16px 32px;
+  font-size: 17px;
+  font-weight: 700;
+  cursor: pointer;
+  width: 100%;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.latihanBtn:hover {
+  background: #d63850;
+  transform: scale(1.02);
+}

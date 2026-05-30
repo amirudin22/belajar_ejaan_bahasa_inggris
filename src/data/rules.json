@@ -1,0 +1,154 @@
+{
+  "magic_e": {
+    "nama": "Hukum Magic E",
+    "penjelasan": "Huruf 'e' di akhir kata adalah bisu, tetapi ia memanjangkan vokal sebelumnya sesuai dengan bunyi abjad aslinya. Contoh: 'bit' jadi 'bite' (bait)."
+  },
+  "vowel_ea": {
+    "nama": "Hukum Vokal Beriringan EA",
+    "penjelasan": "Saat dua vokal berjalan beriringan, vokal pertama yang berbicara (dibaca panjang) dan vokal kedua diam. 'EA' biasanya dibaca /ii/ seperti pada 'meat'."
+  },
+  "vowel_ea_pengecualian": {
+    "nama": "Hukum Gharib EA (Pengecualian)",
+    "penjelasan": "Tidak semua 'EA' dibaca /ii/. Beberapa kata seperti 'bread' dan 'head' adalah pengecualian di mana 'EA' dibaca /e/ pendek. Kata-kata ini harus dihafal khusus."
+  },
+  "vowel_oo_panjang": {
+    "nama": "Hukum Vokal Panjang OO",
+    "penjelasan": "Deretan 'OO' sering dibaca /uu/ panjang seperti pada 'moon' dan 'food'."
+  },
+  "vowel_oo_pendek": {
+    "nama": "Hukum Vokal Pendek OO",
+    "penjelasan": "Beberapa kata dengan 'OO' dibaca /u/ pendek seperti pada 'book' dan 'good'. Ini adalah pengecualian yang harus dihafal."
+  },
+  "silent_k": {
+    "nama": "Hukum K Bisu di Awal",
+    "penjelasan": "Jika kata dimulai dengan 'KN', huruf 'K' tidak dibaca (bisu). Hanya 'N' yang dilafalkan. Contoh: 'knife' dibaca /naif/."
+  },
+  "silent_w": {
+    "nama": "Hukum W Bisu",
+    "penjelasan": "Jika kata dimulai dengan 'WR', huruf 'W' tidak dibaca. Hanya 'R' yang dilafalkan. Contoh: 'write' dibaca /rait/."
+  },
+  "silent_b": {
+    "nama": "Hukum B Bisu",
+    "penjelasan": "Huruf 'B' tidak dibaca jika berada setelah 'M' di akhir suku kata. Contoh: 'comb' dibaca /kom/."
+  },
+  "silent_l": {
+    "nama": "Hukum L Bisu",
+    "penjelasan": "Huruf 'L' tidak dibaca dalam beberapa kata tertentu. Pola umum: 'alf', 'alk', 'ould', 'alm'. Contoh: 'half' (/haf/), 'walk' (/wok/), 'could' (/kud/)."
+  },
+  "silent_h": {
+    "nama": "Hukum H Bisu",
+    "penjelasan": "Huruf 'H' tidak dibaca di beberapa posisi. Di awal kata seperti 'hour' dan 'honest', atau setelah 'W' seperti 'what', 'where'. Juga setelah 'G' seperti 'ghost'."
+  },
+  "silent_t": {
+    "nama": "Hukum T Bisu",
+    "penjelasan": "Huruf 'T' tidak dibaca dalam beberapa kata, terutama pada pola 'sten', 'stle', 'ften'. Contoh: 'listen' (/li-sen/), 'castle' (/ka-sel/), 'often' (/of-en/)."
+  },
+  "silent_g": {
+    "nama": "Hukum G Bisu",
+    "penjelasan": "Huruf 'G' tidak dibaca jika berada di awal kata sebelum 'N' (pola 'GN'). Contoh: 'gnaw' (/no/), 'gnome' (/nom/), 'sign' (/sain/)."
+  },
+  "soft_c": {
+    "nama": "Hukum C Lunak",
+    "penjelasan": "Huruf 'C' dibaca /s/ (lunak) jika diikuti huruf 'E', 'I', atau 'Y'. Contoh: 'city' dibaca /si-ti/. Selain itu, 'C' dibaca /k/ (keras)."
+  },
+  "soft_g": {
+    "nama": "Hukum G Lunak",
+    "penjelasan": "Huruf 'G' dibaca /j/ (lunak) jika diikuti huruf 'E', 'I', atau 'Y'. Contoh: 'gym' (/jim/), 'giant' (/jai-ent/), 'age' (/ej/). Selain itu, 'G' dibaca /g/ (keras)."
+  },
+  "vowel_ou": {
+    "nama": "Hukum Vokal OU",
+    "penjelasan": "Deretan 'OU' biasanya dibaca /au/ seperti pada kata 'cloud', 'house', dan 'mouse'. Ini adalah bunyi diftong (gabungan dua vokal)."
+  },
+  "vowel_ow": {
+    "nama": "Hukum Vokal OW Diftong",
+    "penjelasan": "Deretan 'OW' pada beberapa kata dibaca /au/ (diftong — dua bunyi vokal digabung). Contoh: 'cow' (/kau/), 'brown' (/braun/)."
+  },
+  "vowel_ow_panjang": {
+    "nama": "Hukum Vokal OW Panjang",
+    "penjelasan": "Deretan 'OW' pada beberapa kata lain dibaca /o/ panjang, bukan diftong. Contoh: 'snow' (/sno/), 'grow' (/gro/), 'slow' (/slo/)."
+  },
+  "vowel_ai": {
+    "nama": "Hukum Vokal AI/AY",
+    "penjelasan": "Deretan 'AI' atau 'AY' dibaca /ei/ seperti bunyi huruf 'A' dalam abjad. Contoh: 'rain' (/rein/), 'play' (/plei/), 'day' (/dei/)."
+  },
+  "hard_c": {
+    "nama": "Hukum C Keras",
+    "penjelasan": "Huruf 'C' dibaca /k/ (keras) jika tidak diikuti huruf 'E', 'I', atau 'Y'. Contoh: 'cat' (/kat/), 'cup' (/kap/). Ini adalah bacaan default huruf C."
+  },
+  "ough": {
+    "nama": "Hukum Gharib OUGH Dasar",
+    "penjelasan": "Grup 'OUGH' memiliki banyak cara baca. Yang paling umum: /a-f/ ('enough'), /o/ ('though'), /u/ ('through'), /o-f/ ('cough')."
+  },
+  "ough_lanjutan": {
+    "nama": "Hukum Gharib OUGH Lanjutan",
+    "penjelasan": "Varian lain grup 'OUGH': dibaca /a-f/ ('rough', 'tough'), dibaca /o-t/ ('thought'). Total ada 6+ cara baca berbeda untuk pola yang sama."
+  },
+  "silent_h_lanjutan": {
+    "nama": "Hukum GH Bisu di Akhir",
+    "penjelasan": "Grup 'GH' di akhir kata sering tidak dibaca (bisu). Pola 'IGHT' seperti 'night' (/nait/), 'light' (/lait/), 'right' (/rait/). 'Eight' (/eit/) juga termasuk. Kadang 'GH' dibaca /f/ seperti di 'enough' dan 'cough'."
+  },
+  "suffix_ed": {
+    "nama": "Hukum Akhiran -ED",
+    "penjelasan": "Akhiran '-ed' pada kata kerja lampau (past tense) punya tiga cara baca: /t/ setelah bunyi konsonan tak bersuara ('walked'), /d/ setelah bunyi vokal atau konsonan bersuara ('played'), dan /id/ setelah bunyi 't' atau 'd' ('wanted')."
+  },
+  "homofon": {
+    "nama": "Hukum Homofon Dasar: They're, There, Their",
+    "penjelasan": "Homofon adalah kata yang bunyinya sama tetapi ejaan dan artinya berbeda. 'They're' = they are (mereka adalah). 'There' = di sana. 'Their' = milik mereka. Ketiganya dibaca /dher/."
+  },
+  "digraph_sh": {
+    "nama": "Hukum Digraf SH",
+    "penjelasan": "Dua huruf 'S' dan 'H' membentuk satu bunyi baru /sy/ (seperti 'sy' dalam bahasa Indonesia). Contoh: 'ship' (/syip/), 'fish' (/fisy/)."
+  },
+  "digraph_ch": {
+    "nama": "Hukum Digraf CH",
+    "penjelasan": "Dua huruf 'C' dan 'H' membentuk satu bunyi baru /c/ (seperti 'c' dalam 'cari'). Contoh: 'chair' (/ceir/), 'chicken' (/ci-ken/)."
+  },
+  "digraph_th": {
+    "nama": "Hukum Digraf TH",
+    "penjelasan": "Dua huruf 'T' dan 'H' membentuk dua kemungkinan bunyi: /th/ tidak bersuara seperti di 'think' dan 'three', atau /dh/ bersuara seperti di 'this', 'that', dan 'mother'."
+  },
+  "vowel_ee": {
+    "nama": "Hukum Vokal EE",
+    "penjelasan": "Deretan 'EE' dibaca /ii/ panjang seperti pada 'tree', 'green', 'sleep'. Ini adalah bunyi vokal yang paling konsisten dalam bahasa Inggris."
+  },
+  "vowel_ie_ei": {
+    "nama": "Hukum Vokal IE/EI",
+    "penjelasan": "Deretan 'IE' biasanya dibaca /ii/ ('field', 'believe'). Deretan 'EI' biasanya dibaca /ii/ juga setelah huruf 'C' ('receive', 'ceiling'). Pengecualian: 'friend' (/frend/), 'eight' (/eit/)."
+  },
+  "hard_g": {
+    "nama": "Hukum G Keras",
+    "penjelasan": "Huruf 'G' dibaca /g/ (keras) jika tidak diikuti huruf 'E', 'I', atau 'Y'. Contoh: 'go' (/go/), 'game' (/geim/), 'big' (/big/). Ini adalah bacaan default huruf G."
+  },
+  "vowel_ir_er_ur": {
+    "nama": "Hukum Vokal IR/ER/UR",
+    "penjelasan": "Ketiga pola 'IR', 'ER', dan 'UR' semuanya dibaca /er/ (bunyi 'er' dalam bahasa Indonesia). Contoh: 'bird' (/berd/), 'girl' (/gerl/), 'turn' (/tern/)."
+  },
+  "digraph_ph": {
+    "nama": "Hukum Digraf PH",
+    "penjelasan": "Dua huruf 'P' dan 'H' membentuk satu bunyi /f/. Contoh: 'phone' (/fon/), 'photo' (/fo-to/), 'elephant' (/e-le-fant/)."
+  },
+  "vowel_ar_or": {
+    "nama": "Hukum Vokal AR/OR",
+    "penjelasan": "Deretan 'AR' dibaca /ar/ (seperti 'ar' dalam 'cari'). Deretan 'OR' dibaca /or/ (seperti 'or' dalam 'kotor'). Contoh: 'car' (/kar/), 'for' (/for/)."
+  },
+  "diftong_oi_oy": {
+    "nama": "Hukum Diftong OI/OY",
+    "penjelasan": "Deretan 'OI' dan 'OY' menghasilkan bunyi diftong /oi/ (seperti 'oi' dalam 'boikot'). Contoh: 'oil' (/oil/), 'boy' (/boi/)."
+  },
+  "silent_c": {
+    "nama": "Hukum C Bisu & CK",
+    "penjelasan": "Huruf 'C' bisa menjadi bisu dalam pola 'SC' di awal kata: 'scene' (/siin/), 'science' (/sai-ens/). Sedangkan 'CK' di akhir kata melambangkan satu bunyi /k/: 'back' (/bak/)."
+  },
+  "vowel_aw_au": {
+    "nama": "Hukum Vokal AW/AU",
+    "penjelasan": "Deretan 'AW' dan 'AU' menghasilkan bunyi /o/ (seperti 'o' dalam 'soto'). Contoh: 'saw' (/so/), 'because' (/bi-koz/), 'autumn' (/o-tem/)."
+  },
+  "silent_u": {
+    "nama": "Hukum U Bisu",
+    "penjelasan": "Huruf 'U' tidak dibaca (bisu) dalam pola 'GU' diikuti vokal: 'guess' (/ges/), 'guest' (/gest/), 'guitar' (/gi-tar/), 'tongue' (/tang/)."
+  },
+  "homofon_lanjutan": {
+    "nama": "Hukum Homofon Lanjutan: To/Too/Two",
+    "penjelasan": "'To' = kata depan (ke). 'Too' = juga/terlalu. 'Two' = dua. Ketiganya dibaca /tu/. 'Write' (/rait/) = menulis. 'Right' (/rait/) = benar/kanan."
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "levels": [
+    {
+      "id": "level_01",
+      "nama": "Magic E Dasar",
+      "deskripsi": "1 kata — pelajari pola Magic E dengan 'bite'.",
+      "wordIds": ["bite"]
+    },
+    {
+      "id": "level_02",
+      "nama": "Magic E Lanjutan",
+      "deskripsi": "2 kata — tambah 'kite' dan 'hope'.",
+      "wordIds": ["kite", "hope"]
+    },
+    {
+      "id": "level_03",
+      "nama": "Vokal EA Reguler",
+      "deskripsi": "2 kata — 'EA' dibaca /ii/ pada 'meat' dan 'seat'.",
+      "wordIds": ["meat", "seat"]
+    },
+    {
+      "id": "level_04",
+      "nama": "EA Gharib & OO",
+      "deskripsi": "3 kata — pengecualian 'EA' dan kenalan dengan 'OO'.",
+      "wordIds": ["bread", "head", "moon"]
+    },
+    {
+      "id": "level_05",
+      "nama": "OO & L Bisu",
+      "deskripsi": "3 kata — 'OO' panjang/pendek dan huruf 'L' bisu.",
+      "wordIds": ["food", "book", "walk"]
+    },
+    {
+      "id": "level_06",
+      "nama": "L Bisu Lanjutan",
+      "deskripsi": "3 kata — 'half', 'could', 'would' dengan L bisu.",
+      "wordIds": ["half", "could", "would"]
+    },
+    {
+      "id": "level_07",
+      "nama": "L Bisu & H Bisu",
+      "deskripsi": "4 kata — L bisu lanjutan dan H bisu pertama.",
+      "wordIds": ["should", "calm", "ghost", "what"]
+    },
+    {
+      "id": "level_08",
+      "nama": "H Bisu (WH)",
+      "deskripsi": "4 kata — H bisu setelah W: 'where', 'when', 'why'.",
+      "wordIds": ["where", "when", "why", "hour"]
+    },
+    {
+      "id": "level_09",
+      "nama": "H Bisu & T Bisu",
+      "deskripsi": "4 kata — H bisu di awal dan T bisu dalam kata.",
+      "wordIds": ["honest", "listen", "castle", "often"]
+    },
+    {
+      "id": "level_10",
+      "nama": "T Bisu & G Bisu",
+      "deskripsi": "4 kata — T bisu lanjutan dan G bisu ('gn').",
+      "wordIds": ["whistle", "sign", "gnaw", "gnome"]
+    },
+    {
+      "id": "level_11",
+      "nama": "G Lunak (Soft G)",
+      "deskripsi": "5 kata — G dibaca /j/ sebelum E, I, Y.",
+      "wordIds": ["gym", "giant", "age", "page", "gentle"]
+    },
+    {
+      "id": "level_12",
+      "nama": "Review Huruf Bisu & C",
+      "deskripsi": "5 kata — review silent letters + C lunak.",
+      "wordIds": ["knife", "write", "comb", "city", "palm"]
+    },
+    {
+      "id": "level_13",
+      "nama": "Vokal OU",
+      "deskripsi": "4 kata — deretan 'OU' dibaca /au/.",
+      "wordIds": ["cloud", "loud", "house", "mouse"]
+    },
+    {
+      "id": "level_14",
+      "nama": "OU & OW",
+      "deskripsi": "5 kata — 'OU' lanjutan dan 'OW' diftong.",
+      "wordIds": ["count", "shout", "cow", "brown", "down"]
+    },
+    {
+      "id": "level_15",
+      "nama": "OW & OUGH Dasar",
+      "deskripsi": "5 kata — 'OW' lanjutan dan grup 'OUGH'.",
+      "wordIds": ["town", "clown", "enough", "though", "through"]
+    },
+    {
+      "id": "level_16",
+      "nama": "OUGH Lanjutan",
+      "deskripsi": "4 kata — varian 'OUGH' yang paling menantang.",
+      "wordIds": ["cough", "rough", "tough", "thought"]
+    },
+    {
+      "id": "level_17",
+      "nama": "Magic E Baru",
+      "deskripsi": "5 kata — lebih banyak pola Magic E.",
+      "wordIds": ["make", "cake", "time", "home", "five"]
+    },
+    {
+      "id": "level_18",
+      "nama": "EA Baru",
+      "deskripsi": "5 kata — EA reguler dan pengecualian baru.",
+      "wordIds": ["team", "clean", "leaf", "dead", "breath"]
+    },
+    {
+      "id": "level_19",
+      "nama": "EA Gharib & OO Baru",
+      "deskripsi": "5 kata — EA pengecualian lanjutan dan OO panjang.",
+      "wordIds": ["sweat", "soon", "cool", "room", "foot"]
+    },
+    {
+      "id": "level_20",
+      "nama": "OO Pendek & Silent K",
+      "deskripsi": "5 kata — OO pendek dan K bisu.",
+      "wordIds": ["cook", "look", "knee", "know", "knock"]
+    },
+    {
+      "id": "level_21",
+      "nama": "Silent W & B",
+      "deskripsi": "5 kata — W bisu dan B bisu.",
+      "wordIds": ["wrong", "wrap", "wrist", "thumb", "lamb"]
+    },
+    {
+      "id": "level_22",
+      "nama": "Silent Letters Campuran",
+      "deskripsi": "5 kata — B, L, T bisu.",
+      "wordIds": ["climb", "talk", "chalk", "folk", "fasten"]
+    },
+    {
+      "id": "level_23",
+      "nama": "Silent G & Soft G",
+      "deskripsi": "5 kata — G bisu dan G lunak.",
+      "wordIds": ["christmas", "design", "gem", "huge", "stage"]
+    },
+    {
+      "id": "level_24",
+      "nama": "Soft C & Soft G",
+      "deskripsi": "4 kata — C dan G lunak.",
+      "wordIds": ["orange", "center", "circle", "cycle"]
+    },
+    {
+      "id": "level_25",
+      "nama": "Vokal OU Dasar",
+      "deskripsi": "5 kata — deretan 'OU' diftong.",
+      "wordIds": ["around", "about", "out", "sound", "how"]
+    },
+    {
+      "id": "level_26",
+      "nama": "Vokal OW",
+      "deskripsi": "5 kata — OW diftong dan OW panjang.",
+      "wordIds": ["now", "flower", "snow", "grow", "slow"]
+    },
+    {
+      "id": "level_27",
+      "nama": "AI, AY & Hard C",
+      "deskripsi": "7 kata — AI/AY dan C keras.",
+      "wordIds": ["low", "rain", "train", "play", "day", "cat", "cup"]
+    },
+    {
+      "id": "level_28",
+      "nama": "Silent GH",
+      "deskripsi": "5 kata — 'GH' bisu di akhir suku kata.",
+      "wordIds": ["high", "night", "light", "right", "eight"]
+    },
+    {
+      "id": "level_29",
+      "nama": "Akhiran -ED",
+      "deskripsi": "3 kata — akhiran lampau dengan 3 cara baca berbeda.",
+      "wordIds": ["walked", "played", "wanted"]
+    },
+    {
+      "id": "level_30",
+      "nama": "Homofon: They're, There, Their",
+      "deskripsi": "3 kata — bunyi sama, ejaan dan arti berbeda.",
+      "wordIds": ["their", "there", "theyre"]
+    },
+    {
+      "id": "level_31",
+      "nama": "Digraph SH",
+      "deskripsi": "5 kata — dua huruf S+H satu bunyi /sy/.",
+      "wordIds": ["ship", "shop", "fish", "shell", "brush"]
+    },
+    {
+      "id": "level_32",
+      "nama": "Digraph CH",
+      "deskripsi": "4 kata — dua huruf C+H satu bunyi /c/.",
+      "wordIds": ["chair", "chicken", "lunch", "catch"]
+    },
+    {
+      "id": "level_33",
+      "nama": "Digraph TH",
+      "deskripsi": "5 kata — dua huruf T+H bunyi /th/ atau /dh/.",
+      "wordIds": ["think", "three", "this", "that", "mother"]
+    },
+    {
+      "id": "level_34",
+      "nama": "Vokal EE",
+      "deskripsi": "5 kata — deretan 'EE' dibaca /ii/ panjang.",
+      "wordIds": ["tree", "green", "sleep", "week", "feet"]
+    },
+    {
+      "id": "level_35",
+      "nama": "Vokal IE/EI",
+      "deskripsi": "4 kata — deretan 'IE' dan 'EI' dibaca /ii/.",
+      "wordIds": ["field", "believe", "receive", "ceiling"]
+    },
+    {
+      "id": "level_36",
+      "nama": "G Keras (Hard G)",
+      "deskripsi": "5 kata — G dibaca /g/ (lawan dari G lunak).",
+      "wordIds": ["go", "game", "garden", "big", "frog"]
+    },
+    {
+      "id": "level_37",
+      "nama": "Vokal IR/ER/UR",
+      "deskripsi": "5 kata — IR, ER, UR semuanya dibaca /er/.",
+      "wordIds": ["bird", "girl", "turn", "teacher", "her"]
+    },
+    {
+      "id": "level_38",
+      "nama": "Digraph PH",
+      "deskripsi": "4 kata — dua huruf P+H satu bunyi /f/.",
+      "wordIds": ["phone", "photo", "elephant", "dolphin"]
+    },
+    {
+      "id": "level_39",
+      "nama": "Vokal AR & OR",
+      "deskripsi": "5 kata — AR dibaca /ar/, OR dibaca /or/.",
+      "wordIds": ["car", "star", "farm", "for", "short"]
+    },
+    {
+      "id": "level_40",
+      "nama": "Diftong OI & OY",
+      "deskripsi": "5 kata — OI/OY dibaca /oi/.",
+      "wordIds": ["oil", "boil", "boy", "toy", "enjoy"]
+    },
+    {
+      "id": "level_41",
+      "nama": "C Bisu & CK",
+      "deskripsi": "4 kata — SC dengan C bisu dan CK di akhir.",
+      "wordIds": ["scene", "science", "scissors", "back"]
+    },
+    {
+      "id": "level_42",
+      "nama": "Vokal AW & AU",
+      "deskripsi": "4 kata — AW/AU dibaca /o/.",
+      "wordIds": ["saw", "claw", "because", "autumn"]
+    },
+    {
+      "id": "level_43",
+      "nama": "U Bisu (Silent U)",
+      "deskripsi": "4 kata — U bisu dalam pola GU.",
+      "wordIds": ["guess", "guest", "guitar", "tongue"]
+    },
+    {
+      "id": "level_44",
+      "nama": "Homofon Lanjutan",
+      "deskripsi": "5 kata — to/too/two dan write/right.",
+      "wordIds": ["to", "too", "two", "write_homofon", "right_homofon"]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+.container {
+  padding: 24px;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.backBtn {
+  background: transparent;
+  color: #4ecca3;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.backBtn:hover {
+  text-decoration: underline;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 24px;
+}
+
+.section {
+  margin-bottom: 28px;
+}
+
+.sectionTitle {
+  font-size: 16px;
+  font-weight: 700;
+  color: #4ecca3;
+  margin: 0 0 10px;
+}
+
+.text {
+  color: #ccc;
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0 0 10px;
+}
+
+.list {
+  color: #ccc;
+  font-size: 14px;
+  line-height: 1.8;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.statCard {
+  background: #1a1a2e;
+  border: 1px solid #2a2a4a;
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+}
+
+.statValue {
+  display: block;
+  color: #e94560;
+  font-size: 28px;
+  font-weight: 800;
+  margin-bottom: 2px;
+}
+
+.statLabel {
+  color: #888;
+  font-size: 12px;
+}
+
+.contactLinks {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.contactLink {
+  display: inline-block;
+  background: transparent;
+  color: #4ecca3;
+  border: 1px solid #4ecca3;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.contactLink:hover {
+  background: rgba(78, 204, 163, 0.1);
+  transform: translateY(-1px);
+}

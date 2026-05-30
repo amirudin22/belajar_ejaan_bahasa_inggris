@@ -1,0 +1,130 @@
+{
+  "modules": [
+    {
+      "id": "mod_magic_e",
+      "nama": "Magic E",
+      "deskripsi": "Huruf 'e' di akhir kata tidak dibaca, tetapi memanjangkan vokal sebelumnya.",
+      "icon": "⚡",
+      "levelIds": ["level_01", "level_02", "level_17"]
+    },
+    {
+      "id": "mod_vokal_ea",
+      "nama": "Vokal Beriringan EA",
+      "deskripsi": "Deretan 'EA' bisa dibaca /ii/ atau /e/ — tergantung kata.",
+      "icon": "🔤",
+      "levelIds": ["level_03", "level_04", "level_18", "level_19"]
+    },
+    {
+      "id": "mod_vokal_oo",
+      "nama": "Si Kembar OO",
+      "deskripsi": "Deretan 'OO' bisa dibaca panjang /uu/ atau pendek /u/.",
+      "icon": "👯",
+      "levelIds": ["level_05", "level_20"]
+    },
+    {
+      "id": "mod_silent_1",
+      "nama": "Huruf Bisu (L, H)",
+      "deskripsi": "Huruf L dan H yang ditulis tapi tidak dibaca.",
+      "icon": "🤫",
+      "levelIds": ["level_06", "level_07", "level_08", "level_09"]
+    },
+    {
+      "id": "mod_silent_2",
+      "nama": "Huruf Bisu (T, G, K, W, B)",
+      "deskripsi": "Lebih banyak huruf bisu: T, G, K, W, dan B.",
+      "icon": "🔇",
+      "levelIds": ["level_10", "level_21", "level_22", "level_23"]
+    },
+    {
+      "id": "mod_soft_cg",
+      "nama": "C & G Lunak",
+      "deskripsi": "Kapan C dibaca /s/ atau /k/, G dibaca /j/ atau /g/.",
+      "icon": "🎯",
+      "levelIds": ["level_11", "level_12", "level_24"]
+    },
+    {
+      "id": "mod_vowel_ouow",
+      "nama": "Vokal OU & OW",
+      "deskripsi": "Diftong OU (/au/) dan OW (/au/ atau /o/).",
+      "icon": "🌊",
+      "levelIds": ["level_13", "level_14", "level_25", "level_26"]
+    },
+    {
+      "id": "mod_ough",
+      "nama": "Grup OUGH & AI/AY",
+      "deskripsi": "Grup 'OUGH' yang terkenal menjebak, plus AI/AY.",
+      "icon": "🌀",
+      "levelIds": ["level_15", "level_16", "level_27"]
+    },
+    {
+      "id": "mod_silent_gh_ed",
+      "nama": "Silent GH & -ED",
+      "deskripsi": "GH bisu di akhir kata dan tiga cara baca akhiran -ED.",
+      "icon": "🤐",
+      "levelIds": ["level_28", "level_29"]
+    },
+    {
+      "id": "mod_homofon",
+      "nama": "Homofon Dasar",
+      "deskripsi": "Kata-kata yang bunyinya sama tapi ejaan dan artinya berbeda.",
+      "icon": "🔊",
+      "levelIds": ["level_30"]
+    },
+    {
+      "id": "mod_digraph_sh_ch",
+      "nama": "Digraf SH & CH",
+      "deskripsi": "Dua huruf S+H dan C+H membentuk satu bunyi baru.",
+      "icon": "🔗",
+      "levelIds": ["level_31", "level_32"]
+    },
+    {
+      "id": "mod_digraph_th",
+      "nama": "Digraf TH",
+      "deskripsi": "Dua huruf T+H membentuk bunyi /th/ atau /dh/.",
+      "icon": "👅",
+      "levelIds": ["level_33"]
+    },
+    {
+      "id": "mod_vowel_ee_ie",
+      "nama": "Vokal EE & IE/EI",
+      "deskripsi": "Deretan EE, IE, dan EI semuanya dibaca /ii/.",
+      "icon": "🇪",
+      "levelIds": ["level_34", "level_35"]
+    },
+    {
+      "id": "mod_hard_g_irerur",
+      "nama": "G Keras & IR/ER/UR",
+      "deskripsi": "G dibaca /g/ dan tiga pola vokal yang dibaca /er/.",
+      "icon": "🎸",
+      "levelIds": ["level_36", "level_37"]
+    },
+    {
+      "id": "mod_ph_aror",
+      "nama": "PH & AR/OR",
+      "deskripsi": "P+H dibaca /f/ dan vokal AR/OR.",
+      "icon": "📷",
+      "levelIds": ["level_38", "level_39"]
+    },
+    {
+      "id": "mod_oi_oy_silentc",
+      "nama": "Diftong OI/OY & C Bisu",
+      "deskripsi": "Diftong OI/OY dan pola SC dengan C bisu.",
+      "icon": "🔄",
+      "levelIds": ["level_40", "level_41"]
+    },
+    {
+      "id": "mod_aw_au_silentu",
+      "nama": "AW/AU & U Bisu",
+      "deskripsi": "AW/AU dibaca /o/ dan U bisu dalam pola GU.",
+      "icon": "🍂",
+      "levelIds": ["level_42", "level_43"]
+    },
+    {
+      "id": "mod_homofon_lanjutan",
+      "nama": "Homofon Lanjutan",
+      "deskripsi": "To/too/two dan write/right — lebih banyak homofon.",
+      "icon": "🔊",
+      "levelIds": ["level_44"]
+    }
+  ]
+}
