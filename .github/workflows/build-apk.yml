@@ -41,6 +41,9 @@ jobs:
       - name: Sync Capacitor
         run: npx cap sync
 
+      - name: Generate Android icons & splash screen
+        run: npx @capacitor/assets generate
+
       - name: Patch Kotlin duplicate class conflict
         run: |
           sed -i '/compileSdk rootProject.ext.compileSdkVersion/a\
