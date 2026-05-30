@@ -2,6 +2,7 @@ import { useState, useCallback, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useGame } from '../context/GameContext';
 import { useSpeech, type SpeechSpeed } from '../hooks/useSpeech';
+import { useSound } from '../hooks/useSound';
 import { cleanBaca } from '../hooks/useGameEngine';
 import { ProgressBar } from '../components/ProgressBar';
 import { SpellingLawPopup } from '../components/SpellingLawPopup';
@@ -49,6 +50,7 @@ export function PlayPage() {
     progress,
   } = useGame();
   const { speak, voicesReady } = useSpeech();
+  const { playCorrect, playWrong } = useSound();
 
   const [typed, setTyped] = useState('');
   const [notes, setNotes] = useState('');
@@ -96,6 +98,8 @@ export function PlayPage() {
     if (!typed.trim()) return;
     const feedback = submitAnswer(typed.trim(), notes.trim());
     setLastResult(feedback.result);
+    if (feedback.result === 'correct') playCorrect();
+    else playWrong();
 
     const existing = progress.word_mastery[feedback.word.id];
     updateProgress((p) => ({

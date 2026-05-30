@@ -20,6 +20,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Validate data integrity
+        run: node scripts/validate-data.mjs
+
       - name: Build web app
         run: npm run build
 

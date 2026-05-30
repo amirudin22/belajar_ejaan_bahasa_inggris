@@ -6,7 +6,11 @@
       "arti": "menggigit",
       "cara_baca_lokal": "/bait/",
       "kalimat_audio": "Be careful, the dog might bite.",
-      "bagian_jebakan": { "huruf": "i_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "i_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -15,7 +19,11 @@
       "arti": "layang-layang",
       "cara_baca_lokal": "/kait/",
       "kalimat_audio": "The children are flying a kite.",
-      "bagian_jebakan": { "huruf": "i_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "i_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -24,7 +32,11 @@
       "arti": "harapan",
       "cara_baca_lokal": "/hop/",
       "kalimat_audio": "I hope you have a great day.",
-      "bagian_jebakan": { "huruf": "o_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "o_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -33,7 +45,11 @@
       "arti": "daging",
       "cara_baca_lokal": "/miit/",
       "kalimat_audio": "I like to eat meat for dinner.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ea"
     },
     {
@@ -42,7 +58,11 @@
       "arti": "kursi",
       "cara_baca_lokal": "/siit/",
       "kalimat_audio": "Please take a seat.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ea"
     },
     {
@@ -51,7 +71,11 @@
       "arti": "roti",
       "cara_baca_lokal": "/bred/",
       "kalimat_audio": "I eat bread for breakfast.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ea_pengecualian"
     },
     {
@@ -60,7 +84,11 @@
       "arti": "kepala",
       "cara_baca_lokal": "/hed/",
       "kalimat_audio": "She has a hat on her head.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ea_pengecualian"
     },
     {
@@ -69,7 +97,11 @@
       "arti": "bulan",
       "cara_baca_lokal": "/muun/",
       "kalimat_audio": "The moon is very bright tonight.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_panjang"
     },
     {
@@ -78,7 +110,11 @@
       "arti": "makanan",
       "cara_baca_lokal": "/fuud/",
       "kalimat_audio": "The food is delicious.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_panjang"
     },
     {
@@ -87,7 +123,11 @@
       "arti": "buku",
       "cara_baca_lokal": "/buk/",
       "kalimat_audio": "I read a book every night.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_pendek"
     },
     {
@@ -96,7 +136,11 @@
       "arti": "berjalan",
       "cara_baca_lokal": "/wok/",
       "kalimat_audio": "I walk to school every day.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -105,7 +149,11 @@
       "arti": "setengah",
       "cara_baca_lokal": "/haf/",
       "kalimat_audio": "I will take half of the cake.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -114,7 +162,11 @@
       "arti": "bisa (lampau)",
       "cara_baca_lokal": "/kud/",
       "kalimat_audio": "I could swim when I was five.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -123,7 +175,11 @@
       "arti": "akan (lampau)",
       "cara_baca_lokal": "/wud/",
       "kalimat_audio": "She would always help me.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -132,7 +188,11 @@
       "arti": "seharusnya",
       "cara_baca_lokal": "/syud/",
       "kalimat_audio": "You should eat more vegetables.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 4, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 4,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -141,7 +201,11 @@
       "arti": "tenang",
       "cara_baca_lokal": "/kam/",
       "kalimat_audio": "Try to stay calm during the test.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -150,7 +214,11 @@
       "arti": "telapak tangan",
       "cara_baca_lokal": "/pam/",
       "kalimat_audio": "She read my palm at the fair.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -159,7 +227,11 @@
       "arti": "hantu",
       "cara_baca_lokal": "/gost/",
       "kalimat_audio": "The ghost appeared at midnight.",
-      "bagian_jebakan": { "huruf": "h", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "h",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_h"
     },
     {
@@ -168,7 +240,11 @@
       "arti": "apa",
       "cara_baca_lokal": "/wat/",
       "kalimat_audio": "What do you want to eat?",
-      "bagian_jebakan": { "huruf": "h", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "h",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_h"
     },
     {
@@ -177,7 +253,11 @@
       "arti": "dimana",
       "cara_baca_lokal": "/wer/",
       "kalimat_audio": "Where is the nearest hospital?",
-      "bagian_jebakan": { "huruf": "h", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "h",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_h"
     },
     {
@@ -186,7 +266,11 @@
       "arti": "kapan",
       "cara_baca_lokal": "/wen/",
       "kalimat_audio": "When will you arrive?",
-      "bagian_jebakan": { "huruf": "h", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "h",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_h"
     },
     {
@@ -195,7 +279,11 @@
       "arti": "mengapa",
       "cara_baca_lokal": "/wai/",
       "kalimat_audio": "Why is the sky blue?",
-      "bagian_jebakan": { "huruf": "h", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "h",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_h"
     },
     {
@@ -204,7 +292,11 @@
       "arti": "jam",
       "cara_baca_lokal": "/aur/",
       "kalimat_audio": "I will be there in one hour.",
-      "bagian_jebakan": { "huruf": "h", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "h",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "silent_h"
     },
     {
@@ -213,7 +305,11 @@
       "arti": "jujur",
       "cara_baca_lokal": "/o-nes/",
       "kalimat_audio": "An honest person always tells the truth.",
-      "bagian_jebakan": { "huruf": "h", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "h",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "silent_h"
     },
     {
@@ -222,7 +318,11 @@
       "arti": "mendengar",
       "cara_baca_lokal": "/li-sen/",
       "kalimat_audio": "Please listen carefully.",
-      "bagian_jebakan": { "huruf": "t", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "t",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_t"
     },
     {
@@ -231,7 +331,11 @@
       "arti": "kastil",
       "cara_baca_lokal": "/ka-sel/",
       "kalimat_audio": "The castle was built long ago.",
-      "bagian_jebakan": { "huruf": "t", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "t",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_t"
     },
     {
@@ -240,7 +344,11 @@
       "arti": "bersiul",
       "cara_baca_lokal": "/wis-el/",
       "kalimat_audio": "The referee blew his whistle.",
-      "bagian_jebakan": { "huruf": "t", "posisi_mulai": 4, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "t",
+        "posisi_mulai": 4,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_t"
     },
     {
@@ -249,7 +357,11 @@
       "arti": "sering",
       "cara_baca_lokal": "/of-en/",
       "kalimat_audio": "I often go to the park.",
-      "bagian_jebakan": { "huruf": "t", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "t",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_t"
     },
     {
@@ -258,7 +370,11 @@
       "arti": "tanda",
       "cara_baca_lokal": "/sain/",
       "kalimat_audio": "The sign says no parking.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_g"
     },
     {
@@ -267,7 +383,11 @@
       "arti": "menggerogoti",
       "cara_baca_lokal": "/no/",
       "kalimat_audio": "The mouse will gnaw through the wood.",
-      "bagian_jebakan": { "huruf": "gn", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "gn",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_g"
     },
     {
@@ -276,7 +396,11 @@
       "arti": "kurcaci taman",
       "cara_baca_lokal": "/nom/",
       "kalimat_audio": "A little gnome lives in the garden.",
-      "bagian_jebakan": { "huruf": "gn", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "gn",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_g"
     },
     {
@@ -285,7 +409,11 @@
       "arti": "gedung olahraga",
       "cara_baca_lokal": "/jim/",
       "kalimat_audio": "I go to the gym every morning.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -294,7 +422,11 @@
       "arti": "raksasa",
       "cara_baca_lokal": "/jai-ent/",
       "kalimat_audio": "The giant was very friendly.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -303,7 +435,11 @@
       "arti": "usia",
       "cara_baca_lokal": "/ej/",
       "kalimat_audio": "What is your age?",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -312,7 +448,11 @@
       "arti": "halaman",
       "cara_baca_lokal": "/pej/",
       "kalimat_audio": "Turn to page twenty.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -321,7 +461,11 @@
       "arti": "lembut",
       "cara_baca_lokal": "/jen-tel/",
       "kalimat_audio": "Be gentle with the kitten.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -330,7 +474,11 @@
       "arti": "awan",
       "cara_baca_lokal": "/klaud/",
       "kalimat_audio": "The cloud looks like a rabbit.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -339,7 +487,11 @@
       "arti": "keras (suara)",
       "cara_baca_lokal": "/laud/",
       "kalimat_audio": "The music is too loud.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -348,7 +500,11 @@
       "arti": "rumah",
       "cara_baca_lokal": "/haus/",
       "kalimat_audio": "This is my house.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -357,7 +513,11 @@
       "arti": "tikus",
       "cara_baca_lokal": "/maus/",
       "kalimat_audio": "The mouse ate the cheese.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -366,7 +526,11 @@
       "arti": "menghitung",
       "cara_baca_lokal": "/kaunt/",
       "kalimat_audio": "Can you count to ten?",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -375,7 +539,11 @@
       "arti": "berteriak",
       "cara_baca_lokal": "/syaut/",
       "kalimat_audio": "Do not shout in the library.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -384,7 +552,11 @@
       "arti": "sapi",
       "cara_baca_lokal": "/kau/",
       "kalimat_audio": "The cow is eating grass.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -393,7 +565,11 @@
       "arti": "coklat",
       "cara_baca_lokal": "/braun/",
       "kalimat_audio": "I have a brown dog.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -402,7 +578,11 @@
       "arti": "bawah",
       "cara_baca_lokal": "/daun/",
       "kalimat_audio": "Sit down please.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -411,7 +591,11 @@
       "arti": "kota kecil",
       "cara_baca_lokal": "/taun/",
       "kalimat_audio": "I live in a small town.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -420,7 +604,11 @@
       "arti": "badut",
       "cara_baca_lokal": "/klaun/",
       "kalimat_audio": "The clown made the children laugh.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -429,7 +617,11 @@
       "arti": "melalui",
       "cara_baca_lokal": "/thru/",
       "kalimat_audio": "We walked through the forest.",
-      "bagian_jebakan": { "huruf": "ough", "posisi_mulai": 3, "posisi_akhir": 6 },
+      "bagian_jebakan": {
+        "huruf": "ough",
+        "posisi_mulai": 3,
+        "posisi_akhir": 6
+      },
       "id_hukum": "ough"
     },
     {
@@ -438,7 +630,11 @@
       "arti": "batuk",
       "cara_baca_lokal": "/kof/",
       "kalimat_audio": "She has a bad cough.",
-      "bagian_jebakan": { "huruf": "ough", "posisi_mulai": 1, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ough",
+        "posisi_mulai": 1,
+        "posisi_akhir": 4
+      },
       "id_hukum": "ough"
     },
     {
@@ -447,7 +643,11 @@
       "arti": "kasar",
       "cara_baca_lokal": "/raf/",
       "kalimat_audio": "The sea was rough today.",
-      "bagian_jebakan": { "huruf": "ough", "posisi_mulai": 1, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ough",
+        "posisi_mulai": 1,
+        "posisi_akhir": 4
+      },
       "id_hukum": "ough_lanjutan"
     },
     {
@@ -456,7 +656,11 @@
       "arti": "tangguh",
       "cara_baca_lokal": "/taf/",
       "kalimat_audio": "This meat is very tough.",
-      "bagian_jebakan": { "huruf": "ough", "posisi_mulai": 1, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ough",
+        "posisi_mulai": 1,
+        "posisi_akhir": 4
+      },
       "id_hukum": "ough_lanjutan"
     },
     {
@@ -465,7 +669,11 @@
       "arti": "pikiran",
       "cara_baca_lokal": "/thot/",
       "kalimat_audio": "I thought you were coming.",
-      "bagian_jebakan": { "huruf": "ough", "posisi_mulai": 2, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "ough",
+        "posisi_mulai": 2,
+        "posisi_akhir": 5
+      },
       "id_hukum": "ough_lanjutan"
     },
     {
@@ -474,7 +682,11 @@
       "arti": "pisau",
       "cara_baca_lokal": "/naif/",
       "kalimat_audio": "Be careful with that knife.",
-      "bagian_jebakan": { "huruf": "kn", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "kn",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_k"
     },
     {
@@ -483,7 +695,11 @@
       "arti": "menulis",
       "cara_baca_lokal": "/rait/",
       "kalimat_audio": "Please write your name here.",
-      "bagian_jebakan": { "huruf": "wr", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "wr",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_w"
     },
     {
@@ -492,7 +708,11 @@
       "arti": "sisir",
       "cara_baca_lokal": "/kom/",
       "kalimat_audio": "She uses a comb for her hair.",
-      "bagian_jebakan": { "huruf": "mb", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "mb",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_b"
     },
     {
@@ -501,7 +721,11 @@
       "arti": "kota",
       "cara_baca_lokal": "/si-ti/",
       "kalimat_audio": "The city is very busy.",
-      "bagian_jebakan": { "huruf": "c", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "c",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_c"
     },
     {
@@ -510,7 +734,11 @@
       "arti": "cukup",
       "cara_baca_lokal": "/i-naf/",
       "kalimat_audio": "Do you have enough money?",
-      "bagian_jebakan": { "huruf": "ough", "posisi_mulai": 2, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "ough",
+        "posisi_mulai": 2,
+        "posisi_akhir": 5
+      },
       "id_hukum": "ough"
     },
     {
@@ -519,7 +747,11 @@
       "arti": "meskipun",
       "cara_baca_lokal": "/tho/",
       "kalimat_audio": "Though it rained, we still played.",
-      "bagian_jebakan": { "huruf": "ough", "posisi_mulai": 2, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "ough",
+        "posisi_mulai": 2,
+        "posisi_akhir": 5
+      },
       "id_hukum": "ough"
     },
     {
@@ -528,7 +760,11 @@
       "arti": "membuat",
       "cara_baca_lokal": "/meik/",
       "kalimat_audio": "I will make a cake.",
-      "bagian_jebakan": { "huruf": "a_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "a_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -537,7 +773,11 @@
       "arti": "kue",
       "cara_baca_lokal": "/keik/",
       "kalimat_audio": "She baked a chocolate cake.",
-      "bagian_jebakan": { "huruf": "a_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "a_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -546,7 +786,11 @@
       "arti": "waktu",
       "cara_baca_lokal": "/taim/",
       "kalimat_audio": "What time is it?",
-      "bagian_jebakan": { "huruf": "i_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "i_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -555,7 +799,11 @@
       "arti": "rumah",
       "cara_baca_lokal": "/hom/",
       "kalimat_audio": "I am going home.",
-      "bagian_jebakan": { "huruf": "o_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "o_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -564,7 +812,11 @@
       "arti": "lima",
       "cara_baca_lokal": "/faiv/",
       "kalimat_audio": "I have five fingers.",
-      "bagian_jebakan": { "huruf": "i_e", "posisi_mulai": 1, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "i_e",
+        "posisi_mulai": 1,
+        "posisi_akhir": 3
+      },
       "id_hukum": "magic_e"
     },
     {
@@ -573,7 +825,11 @@
       "arti": "tim",
       "cara_baca_lokal": "/tiim/",
       "kalimat_audio": "Our team won the game.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ea"
     },
     {
@@ -582,7 +838,11 @@
       "arti": "bersih",
       "cara_baca_lokal": "/kliin/",
       "kalimat_audio": "Please clean your room.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ea"
     },
     {
@@ -591,7 +851,11 @@
       "arti": "daun",
       "cara_baca_lokal": "/liif/",
       "kalimat_audio": "A leaf fell from the tree.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ea"
     },
     {
@@ -600,7 +864,11 @@
       "arti": "mati",
       "cara_baca_lokal": "/ded/",
       "kalimat_audio": "The flower is dead.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ea_pengecualian"
     },
     {
@@ -609,7 +877,11 @@
       "arti": "nafas",
       "cara_baca_lokal": "/breth/",
       "kalimat_audio": "Take a deep breath.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ea_pengecualian"
     },
     {
@@ -618,7 +890,11 @@
       "arti": "keringat",
       "cara_baca_lokal": "/swet/",
       "kalimat_audio": "I sweat when I run.",
-      "bagian_jebakan": { "huruf": "ea", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ea",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ea_pengecualian"
     },
     {
@@ -627,7 +903,11 @@
       "arti": "segera",
       "cara_baca_lokal": "/suun/",
       "kalimat_audio": "I will come soon.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_panjang"
     },
     {
@@ -636,7 +916,11 @@
       "arti": "keren",
       "cara_baca_lokal": "/kuul/",
       "kalimat_audio": "That is a cool shirt.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_panjang"
     },
     {
@@ -645,7 +929,11 @@
       "arti": "ruangan",
       "cara_baca_lokal": "/ruum/",
       "kalimat_audio": "This is my room.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_panjang"
     },
     {
@@ -654,7 +942,11 @@
       "arti": "kaki",
       "cara_baca_lokal": "/fut/",
       "kalimat_audio": "I hurt my foot.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_pendek"
     },
     {
@@ -663,7 +955,11 @@
       "arti": "memasak",
       "cara_baca_lokal": "/kuk/",
       "kalimat_audio": "I will cook dinner tonight.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_pendek"
     },
     {
@@ -672,7 +968,11 @@
       "arti": "melihat",
       "cara_baca_lokal": "/luk/",
       "kalimat_audio": "Look at that bird!",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_oo_pendek"
     },
     {
@@ -681,7 +981,11 @@
       "arti": "lutut",
       "cara_baca_lokal": "/nii/",
       "kalimat_audio": "She fell and hurt her knee.",
-      "bagian_jebakan": { "huruf": "kn", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "kn",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_k"
     },
     {
@@ -690,7 +994,11 @@
       "arti": "tahu",
       "cara_baca_lokal": "/no/",
       "kalimat_audio": "I know the answer.",
-      "bagian_jebakan": { "huruf": "kn", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "kn",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_k"
     },
     {
@@ -699,7 +1007,11 @@
       "arti": "mengetuk",
       "cara_baca_lokal": "/nok/",
       "kalimat_audio": "Please knock before entering.",
-      "bagian_jebakan": { "huruf": "kn", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "kn",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_k"
     },
     {
@@ -708,7 +1020,11 @@
       "arti": "salah",
       "cara_baca_lokal": "/rong/",
       "kalimat_audio": "That is the wrong answer.",
-      "bagian_jebakan": { "huruf": "wr", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "wr",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_w"
     },
     {
@@ -717,7 +1033,11 @@
       "arti": "membungkus",
       "cara_baca_lokal": "/rap/",
       "kalimat_audio": "Please wrap the gift.",
-      "bagian_jebakan": { "huruf": "wr", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "wr",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_w"
     },
     {
@@ -726,7 +1046,11 @@
       "arti": "pergelangan tangan",
       "cara_baca_lokal": "/rist/",
       "kalimat_audio": "He wears a watch on his wrist.",
-      "bagian_jebakan": { "huruf": "wr", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "wr",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_w"
     },
     {
@@ -735,7 +1059,11 @@
       "arti": "ibu jari",
       "cara_baca_lokal": "/tham/",
       "kalimat_audio": "She has a cut on her thumb.",
-      "bagian_jebakan": { "huruf": "mb", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "mb",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_b"
     },
     {
@@ -744,7 +1072,11 @@
       "arti": "anak domba",
       "cara_baca_lokal": "/lam/",
       "kalimat_audio": "The lamb is very cute.",
-      "bagian_jebakan": { "huruf": "mb", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "mb",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_b"
     },
     {
@@ -753,7 +1085,11 @@
       "arti": "memanjat",
       "cara_baca_lokal": "/klaim/",
       "kalimat_audio": "The cat can climb the tree.",
-      "bagian_jebakan": { "huruf": "mb", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "mb",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_b"
     },
     {
@@ -762,7 +1098,11 @@
       "arti": "berbicara",
       "cara_baca_lokal": "/tok/",
       "kalimat_audio": "Please do not talk in class.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -771,7 +1111,11 @@
       "arti": "kapur",
       "cara_baca_lokal": "/cok/",
       "kalimat_audio": "The teacher uses chalk.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -780,7 +1124,11 @@
       "arti": "rakyat",
       "cara_baca_lokal": "/fok/",
       "kalimat_audio": "Folk music is very relaxing.",
-      "bagian_jebakan": { "huruf": "l", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "l",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "silent_l"
     },
     {
@@ -789,7 +1137,11 @@
       "arti": "mengencangkan",
       "cara_baca_lokal": "/fa-sen/",
       "kalimat_audio": "Please fasten your seatbelt.",
-      "bagian_jebakan": { "huruf": "t", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "t",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_t"
     },
     {
@@ -798,7 +1150,11 @@
       "arti": "natal",
       "cara_baca_lokal": "/kris-mas/",
       "kalimat_audio": "Christmas is in December.",
-      "bagian_jebakan": { "huruf": "t", "posisi_mulai": 5, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "t",
+        "posisi_mulai": 5,
+        "posisi_akhir": 5
+      },
       "id_hukum": "silent_t"
     },
     {
@@ -807,7 +1163,11 @@
       "arti": "desain",
       "cara_baca_lokal": "/di-zain/",
       "kalimat_audio": "I like the design of this room.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 4, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 4,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_g"
     },
     {
@@ -816,7 +1176,11 @@
       "arti": "batu permata",
       "cara_baca_lokal": "/jem/",
       "kalimat_audio": "This gem is very valuable.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -825,7 +1189,11 @@
       "arti": "besar sekali",
       "cara_baca_lokal": "/hyuj/",
       "kalimat_audio": "The elephant is huge.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -834,7 +1202,11 @@
       "arti": "panggung",
       "cara_baca_lokal": "/stej/",
       "kalimat_audio": "She sang on the stage.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -843,7 +1215,11 @@
       "arti": "jeruk",
       "cara_baca_lokal": "/o-renj/",
       "kalimat_audio": "I eat an orange every day.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 4, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 4,
+        "posisi_akhir": 4
+      },
       "id_hukum": "soft_g"
     },
     {
@@ -852,7 +1228,11 @@
       "arti": "pusat",
       "cara_baca_lokal": "/sen-ter/",
       "kalimat_audio": "The mall is in the city center.",
-      "bagian_jebakan": { "huruf": "c", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "c",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_c"
     },
     {
@@ -861,7 +1241,11 @@
       "arti": "lingkaran",
       "cara_baca_lokal": "/sir-kel/",
       "kalimat_audio": "The children sat in a circle.",
-      "bagian_jebakan": { "huruf": "c", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "c",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_c"
     },
     {
@@ -870,7 +1254,11 @@
       "arti": "siklus",
       "cara_baca_lokal": "/sai-kel/",
       "kalimat_audio": "The water cycle is important.",
-      "bagian_jebakan": { "huruf": "c", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "c",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "soft_c"
     },
     {
@@ -879,7 +1267,11 @@
       "arti": "sekitar",
       "cara_baca_lokal": "/a-raund/",
       "kalimat_audio": "We walked around the park.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -888,7 +1280,11 @@
       "arti": "tentang",
       "cara_baca_lokal": "/a-baut/",
       "kalimat_audio": "Tell me about your day.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -897,7 +1293,11 @@
       "arti": "keluar",
       "cara_baca_lokal": "/aut/",
       "kalimat_audio": "The cat is out of the bag.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -906,7 +1306,11 @@
       "arti": "suara",
       "cara_baca_lokal": "/saund/",
       "kalimat_audio": "I heard a strange sound.",
-      "bagian_jebakan": { "huruf": "ou", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ou",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ou"
     },
     {
@@ -915,7 +1319,11 @@
       "arti": "bagaimana",
       "cara_baca_lokal": "/hau/",
       "kalimat_audio": "How are you today?",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -924,7 +1332,11 @@
       "arti": "sekarang",
       "cara_baca_lokal": "/nau/",
       "kalimat_audio": "Do it right now!",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -933,7 +1345,11 @@
       "arti": "bunga",
       "cara_baca_lokal": "/flau-er/",
       "kalimat_audio": "The flower is beautiful.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ow"
     },
     {
@@ -942,7 +1358,11 @@
       "arti": "salju",
       "cara_baca_lokal": "/sno/",
       "kalimat_audio": "It will snow tonight.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ow_panjang"
     },
     {
@@ -951,7 +1371,11 @@
       "arti": "tumbuh",
       "cara_baca_lokal": "/gro/",
       "kalimat_audio": "Plants grow in the sun.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ow_panjang"
     },
     {
@@ -960,7 +1384,11 @@
       "arti": "lambat",
       "cara_baca_lokal": "/slo/",
       "kalimat_audio": "The turtle is very slow.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ow_panjang"
     },
     {
@@ -969,7 +1397,11 @@
       "arti": "rendah",
       "cara_baca_lokal": "/lo/",
       "kalimat_audio": "The shelf is too low.",
-      "bagian_jebakan": { "huruf": "ow", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ow",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ow_panjang"
     },
     {
@@ -978,7 +1410,11 @@
       "arti": "hujan",
       "cara_baca_lokal": "/rein/",
       "kalimat_audio": "The rain is falling hard.",
-      "bagian_jebakan": { "huruf": "ai", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ai",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ai"
     },
     {
@@ -987,7 +1423,11 @@
       "arti": "kereta",
       "cara_baca_lokal": "/trein/",
       "kalimat_audio": "I take the train to work.",
-      "bagian_jebakan": { "huruf": "ai", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ai",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ai"
     },
     {
@@ -996,7 +1436,11 @@
       "arti": "bermain",
       "cara_baca_lokal": "/plei/",
       "kalimat_audio": "Children love to play.",
-      "bagian_jebakan": { "huruf": "ay", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ay",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ai"
     },
     {
@@ -1005,7 +1449,11 @@
       "arti": "hari",
       "cara_baca_lokal": "/dei/",
       "kalimat_audio": "Have a nice day!",
-      "bagian_jebakan": { "huruf": "ay", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ay",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ai"
     },
     {
@@ -1014,7 +1462,11 @@
       "arti": "kucing",
       "cara_baca_lokal": "/kat/",
       "kalimat_audio": "The cat is sleeping.",
-      "bagian_jebakan": { "huruf": "c", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "c",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "hard_c"
     },
     {
@@ -1023,7 +1475,11 @@
       "arti": "cangkir",
       "cara_baca_lokal": "/kap/",
       "kalimat_audio": "I drink from a cup.",
-      "bagian_jebakan": { "huruf": "c", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "c",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "hard_c"
     },
     {
@@ -1032,7 +1488,11 @@
       "arti": "tinggi",
       "cara_baca_lokal": "/hai/",
       "kalimat_audio": "The mountain is very high.",
-      "bagian_jebakan": { "huruf": "gh", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "gh",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_h_lanjutan"
     },
     {
@@ -1041,7 +1501,11 @@
       "arti": "malam",
       "cara_baca_lokal": "/nait/",
       "kalimat_audio": "Good night, sleep well.",
-      "bagian_jebakan": { "huruf": "gh", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "gh",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_h_lanjutan"
     },
     {
@@ -1050,7 +1514,11 @@
       "arti": "cahaya",
       "cara_baca_lokal": "/lait/",
       "kalimat_audio": "Turn on the light.",
-      "bagian_jebakan": { "huruf": "gh", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "gh",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_h_lanjutan"
     },
     {
@@ -1059,7 +1527,11 @@
       "arti": "benar",
       "cara_baca_lokal": "/rait/",
       "kalimat_audio": "You are right.",
-      "bagian_jebakan": { "huruf": "gh", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "gh",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_h_lanjutan"
     },
     {
@@ -1068,7 +1540,11 @@
       "arti": "delapan",
       "cara_baca_lokal": "/eit/",
       "kalimat_audio": "I have eight books.",
-      "bagian_jebakan": { "huruf": "gh", "posisi_mulai": 4, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "gh",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "silent_h_lanjutan"
     },
     {
@@ -1077,7 +1553,11 @@
       "arti": "berjalan (lampau)",
       "cara_baca_lokal": "/wokt/",
       "kalimat_audio": "She walked to school.",
-      "bagian_jebakan": { "huruf": "ed", "posisi_mulai": 4, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "ed",
+        "posisi_mulai": 4,
+        "posisi_akhir": 5
+      },
       "id_hukum": "suffix_ed"
     },
     {
@@ -1086,7 +1566,11 @@
       "arti": "bermain (lampau)",
       "cara_baca_lokal": "/pleid/",
       "kalimat_audio": "They played together.",
-      "bagian_jebakan": { "huruf": "ed", "posisi_mulai": 4, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "ed",
+        "posisi_mulai": 4,
+        "posisi_akhir": 5
+      },
       "id_hukum": "suffix_ed"
     },
     {
@@ -1095,7 +1579,11 @@
       "arti": "ingin (lampau)",
       "cara_baca_lokal": "/wan-tid/",
       "kalimat_audio": "I wanted to go home.",
-      "bagian_jebakan": { "huruf": "ed", "posisi_mulai": 5, "posisi_akhir": 6 },
+      "bagian_jebakan": {
+        "huruf": "ed",
+        "posisi_mulai": 4,
+        "posisi_akhir": 5
+      },
       "id_hukum": "suffix_ed"
     },
     {
@@ -1104,7 +1592,11 @@
       "arti": "milik mereka",
       "cara_baca_lokal": "/dher/",
       "kalimat_audio": "That is their house.",
-      "bagian_jebakan": { "huruf": "ei", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ei",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "homofon"
     },
     {
@@ -1113,7 +1605,11 @@
       "arti": "di sana",
       "cara_baca_lokal": "/dher/",
       "kalimat_audio": "Put it there.",
-      "bagian_jebakan": { "huruf": "er", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "er",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "homofon"
     },
     {
@@ -1122,7 +1618,11 @@
       "arti": "mereka adalah",
       "cara_baca_lokal": "/dher/",
       "kalimat_audio": "They're my friends.",
-      "bagian_jebakan": { "huruf": "ey'", "posisi_mulai": 0, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ey'",
+        "posisi_mulai": 0,
+        "posisi_akhir": 2
+      },
       "id_hukum": "homofon"
     },
     {
@@ -1131,7 +1631,11 @@
       "arti": "kapal",
       "cara_baca_lokal": "/syip/",
       "kalimat_audio": "The ship is big.",
-      "bagian_jebakan": { "huruf": "sh", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "sh",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_sh"
     },
     {
@@ -1140,7 +1644,11 @@
       "arti": "toko",
       "cara_baca_lokal": "/syop/",
       "kalimat_audio": "I go to the shop.",
-      "bagian_jebakan": { "huruf": "sh", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "sh",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_sh"
     },
     {
@@ -1149,7 +1657,11 @@
       "arti": "ikan",
       "cara_baca_lokal": "/fisy/",
       "kalimat_audio": "I like to eat fish.",
-      "bagian_jebakan": { "huruf": "sh", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "sh",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "digraph_sh"
     },
     {
@@ -1158,7 +1670,11 @@
       "arti": "kerang",
       "cara_baca_lokal": "/syel/",
       "kalimat_audio": "I found a shell on the beach.",
-      "bagian_jebakan": { "huruf": "sh", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "sh",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_sh"
     },
     {
@@ -1167,7 +1683,11 @@
       "arti": "sikat",
       "cara_baca_lokal": "/brasy/",
       "kalimat_audio": "I brush my teeth.",
-      "bagian_jebakan": { "huruf": "sh", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "sh",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "digraph_sh"
     },
     {
@@ -1176,7 +1696,11 @@
       "arti": "kursi",
       "cara_baca_lokal": "/ceir/",
       "kalimat_audio": "Sit on the chair.",
-      "bagian_jebakan": { "huruf": "ch", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "ch",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_ch"
     },
     {
@@ -1185,7 +1709,11 @@
       "arti": "ayam",
       "cara_baca_lokal": "/ci-ken/",
       "kalimat_audio": "I like fried chicken.",
-      "bagian_jebakan": { "huruf": "ch", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "ch",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_ch"
     },
     {
@@ -1194,7 +1722,11 @@
       "arti": "makan siang",
       "cara_baca_lokal": "/lanc/",
       "kalimat_audio": "I eat lunch at noon.",
-      "bagian_jebakan": { "huruf": "ch", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ch",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "digraph_ch"
     },
     {
@@ -1203,7 +1735,11 @@
       "arti": "menangkap",
       "cara_baca_lokal": "/kac/",
       "kalimat_audio": "Can you catch the ball?",
-      "bagian_jebakan": { "huruf": "ch", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ch",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "digraph_ch"
     },
     {
@@ -1212,7 +1748,11 @@
       "arti": "berpikir",
       "cara_baca_lokal": "/think/",
       "kalimat_audio": "I think so.",
-      "bagian_jebakan": { "huruf": "th", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "th",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_th"
     },
     {
@@ -1221,7 +1761,11 @@
       "arti": "tiga",
       "cara_baca_lokal": "/thrii/",
       "kalimat_audio": "I have three cats.",
-      "bagian_jebakan": { "huruf": "th", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "th",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_th"
     },
     {
@@ -1230,7 +1774,11 @@
       "arti": "ini",
       "cara_baca_lokal": "/dhis/",
       "kalimat_audio": "This is my book.",
-      "bagian_jebakan": { "huruf": "th", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "th",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_th"
     },
     {
@@ -1239,7 +1787,11 @@
       "arti": "itu",
       "cara_baca_lokal": "/dhat/",
       "kalimat_audio": "That is a good idea.",
-      "bagian_jebakan": { "huruf": "th", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "th",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_th"
     },
     {
@@ -1248,7 +1800,11 @@
       "arti": "ibu",
       "cara_baca_lokal": "/ma-dher/",
       "kalimat_audio": "My mother is very kind.",
-      "bagian_jebakan": { "huruf": "th", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "th",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "digraph_th"
     },
     {
@@ -1257,7 +1813,11 @@
       "arti": "pohon",
       "cara_baca_lokal": "/trii/",
       "kalimat_audio": "The tree is very tall.",
-      "bagian_jebakan": { "huruf": "ee", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ee",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ee"
     },
     {
@@ -1266,7 +1826,11 @@
       "arti": "hijau",
       "cara_baca_lokal": "/griin/",
       "kalimat_audio": "The grass is green.",
-      "bagian_jebakan": { "huruf": "ee", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ee",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ee"
     },
     {
@@ -1275,7 +1839,11 @@
       "arti": "tidur",
       "cara_baca_lokal": "/sliip/",
       "kalimat_audio": "I sleep at night.",
-      "bagian_jebakan": { "huruf": "ee", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ee",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ee"
     },
     {
@@ -1284,7 +1852,11 @@
       "arti": "minggu",
       "cara_baca_lokal": "/wiik/",
       "kalimat_audio": "I go every week.",
-      "bagian_jebakan": { "huruf": "ee", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ee",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ee"
     },
     {
@@ -1293,7 +1865,11 @@
       "arti": "kaki (jamak)",
       "cara_baca_lokal": "/fiit/",
       "kalimat_audio": "My feet are cold.",
-      "bagian_jebakan": { "huruf": "ee", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ee",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ee"
     },
     {
@@ -1302,7 +1878,11 @@
       "arti": "ladang",
       "cara_baca_lokal": "/fiild/",
       "kalimat_audio": "The cow is in the field.",
-      "bagian_jebakan": { "huruf": "ie", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ie",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ie_ei"
     },
     {
@@ -1311,7 +1891,11 @@
       "arti": "percaya",
       "cara_baca_lokal": "/bi-liiv/",
       "kalimat_audio": "I believe you.",
-      "bagian_jebakan": { "huruf": "ie", "posisi_mulai": 4, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "ie",
+        "posisi_mulai": 4,
+        "posisi_akhir": 5
+      },
       "id_hukum": "vowel_ie_ei"
     },
     {
@@ -1320,7 +1904,11 @@
       "arti": "menerima",
       "cara_baca_lokal": "/ri-siiv/",
       "kalimat_audio": "I receive a gift.",
-      "bagian_jebakan": { "huruf": "ei", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ei",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "vowel_ie_ei"
     },
     {
@@ -1329,7 +1917,11 @@
       "arti": "langit-langit",
       "cara_baca_lokal": "/sii-ling/",
       "kalimat_audio": "The ceiling is white.",
-      "bagian_jebakan": { "huruf": "ei", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ei",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ie_ei"
     },
     {
@@ -1338,7 +1930,11 @@
       "arti": "pergi",
       "cara_baca_lokal": "/go/",
       "kalimat_audio": "Let's go!",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "hard_g"
     },
     {
@@ -1347,7 +1943,11 @@
       "arti": "permainan",
       "cara_baca_lokal": "/geim/",
       "kalimat_audio": "Let's play a game.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "hard_g"
     },
     {
@@ -1356,7 +1956,11 @@
       "arti": "kebun",
       "cara_baca_lokal": "/gar-den/",
       "kalimat_audio": "The garden is beautiful.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 0, "posisi_akhir": 0 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 0,
+        "posisi_akhir": 0
+      },
       "id_hukum": "hard_g"
     },
     {
@@ -1365,7 +1969,11 @@
       "arti": "besar",
       "cara_baca_lokal": "/big/",
       "kalimat_audio": "That is a big dog.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 2, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 2,
+        "posisi_akhir": 2
+      },
       "id_hukum": "hard_g"
     },
     {
@@ -1374,7 +1982,11 @@
       "arti": "katak",
       "cara_baca_lokal": "/frog/",
       "kalimat_audio": "The frog is green.",
-      "bagian_jebakan": { "huruf": "g", "posisi_mulai": 3, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "g",
+        "posisi_mulai": 3,
+        "posisi_akhir": 3
+      },
       "id_hukum": "hard_g"
     },
     {
@@ -1383,7 +1995,11 @@
       "arti": "burung",
       "cara_baca_lokal": "/berd/",
       "kalimat_audio": "A bird is flying.",
-      "bagian_jebakan": { "huruf": "ir", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ir",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ir_er_ur"
     },
     {
@@ -1392,7 +2008,11 @@
       "arti": "gadis",
       "cara_baca_lokal": "/gerl/",
       "kalimat_audio": "The girl is reading.",
-      "bagian_jebakan": { "huruf": "ir", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ir",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ir_er_ur"
     },
     {
@@ -1401,7 +2021,11 @@
       "arti": "berbelok",
       "cara_baca_lokal": "/tern/",
       "kalimat_audio": "Turn left here.",
-      "bagian_jebakan": { "huruf": "ur", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ur",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ir_er_ur"
     },
     {
@@ -1410,7 +2034,11 @@
       "arti": "guru",
       "cara_baca_lokal": "/tii-cer/",
       "kalimat_audio": "My teacher is nice.",
-      "bagian_jebakan": { "huruf": "er", "posisi_mulai": 5, "posisi_akhir": 6 },
+      "bagian_jebakan": {
+        "huruf": "er",
+        "posisi_mulai": 5,
+        "posisi_akhir": 6
+      },
       "id_hukum": "vowel_ir_er_ur"
     },
     {
@@ -1419,7 +2047,11 @@
       "arti": "dia (perempuan)",
       "cara_baca_lokal": "/her/",
       "kalimat_audio": "That is her bag.",
-      "bagian_jebakan": { "huruf": "er", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "er",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ir_er_ur"
     },
     {
@@ -1428,7 +2060,11 @@
       "arti": "telepon",
       "cara_baca_lokal": "/fon/",
       "kalimat_audio": "I use my phone.",
-      "bagian_jebakan": { "huruf": "ph", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "ph",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_ph"
     },
     {
@@ -1437,7 +2073,11 @@
       "arti": "foto",
       "cara_baca_lokal": "/fo-to/",
       "kalimat_audio": "Take a photo.",
-      "bagian_jebakan": { "huruf": "ph", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "ph",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "digraph_ph"
     },
     {
@@ -1446,7 +2086,11 @@
       "arti": "gajah",
       "cara_baca_lokal": "/e-le-fant/",
       "kalimat_audio": "The elephant is big.",
-      "bagian_jebakan": { "huruf": "ph", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ph",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "digraph_ph"
     },
     {
@@ -1455,7 +2099,11 @@
       "arti": "lumba-lumba",
       "cara_baca_lokal": "/dol-fin/",
       "kalimat_audio": "The dolphin is smart.",
-      "bagian_jebakan": { "huruf": "ph", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "ph",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "digraph_ph"
     },
     {
@@ -1464,7 +2112,11 @@
       "arti": "mobil",
       "cara_baca_lokal": "/kar/",
       "kalimat_audio": "I drive a car.",
-      "bagian_jebakan": { "huruf": "ar", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ar",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ar_or"
     },
     {
@@ -1473,7 +2125,11 @@
       "arti": "bintang",
       "cara_baca_lokal": "/star/",
       "kalimat_audio": "The star is bright.",
-      "bagian_jebakan": { "huruf": "ar", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ar",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_ar_or"
     },
     {
@@ -1482,7 +2138,11 @@
       "arti": "pertanian",
       "cara_baca_lokal": "/farm/",
       "kalimat_audio": "The farm has many cows.",
-      "bagian_jebakan": { "huruf": "ar", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "ar",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ar_or"
     },
     {
@@ -1491,7 +2151,11 @@
       "arti": "untuk",
       "cara_baca_lokal": "/for/",
       "kalimat_audio": "This is for you.",
-      "bagian_jebakan": { "huruf": "or", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "or",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ar_or"
     },
     {
@@ -1500,7 +2164,11 @@
       "arti": "pendek",
       "cara_baca_lokal": "/syort/",
       "kalimat_audio": "The pencil is short.",
-      "bagian_jebakan": { "huruf": "or", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "or",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_ar_or"
     },
     {
@@ -1509,7 +2177,11 @@
       "arti": "minyak",
       "cara_baca_lokal": "/oil/",
       "kalimat_audio": "Cooking oil is needed.",
-      "bagian_jebakan": { "huruf": "oi", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "oi",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "diftong_oi_oy"
     },
     {
@@ -1518,7 +2190,11 @@
       "arti": "mendidih",
       "cara_baca_lokal": "/boil/",
       "kalimat_audio": "Boil the water.",
-      "bagian_jebakan": { "huruf": "oi", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oi",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "diftong_oi_oy"
     },
     {
@@ -1527,7 +2203,11 @@
       "arti": "anak laki-laki",
       "cara_baca_lokal": "/boi/",
       "kalimat_audio": "The boy is playing.",
-      "bagian_jebakan": { "huruf": "oy", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oy",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "diftong_oi_oy"
     },
     {
@@ -1536,7 +2216,11 @@
       "arti": "mainan",
       "cara_baca_lokal": "/toi/",
       "kalimat_audio": "The toy is broken.",
-      "bagian_jebakan": { "huruf": "oy", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oy",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "diftong_oi_oy"
     },
     {
@@ -1545,7 +2229,11 @@
       "arti": "menikmati",
       "cara_baca_lokal": "/en-joi/",
       "kalimat_audio": "Enjoy your meal.",
-      "bagian_jebakan": { "huruf": "oy", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "oy",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "diftong_oi_oy"
     },
     {
@@ -1554,7 +2242,11 @@
       "arti": "pemandangan",
       "cara_baca_lokal": "/siin/",
       "kalimat_audio": "The crime scene was quiet.",
-      "bagian_jebakan": { "huruf": "sc", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "sc",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_c"
     },
     {
@@ -1563,7 +2255,11 @@
       "arti": "ilmu pengetahuan",
       "cara_baca_lokal": "/sai-ens/",
       "kalimat_audio": "Science is very fun.",
-      "bagian_jebakan": { "huruf": "sc", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "sc",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_c"
     },
     {
@@ -1572,7 +2268,11 @@
       "arti": "gunting",
       "cara_baca_lokal": "/si-zors/",
       "kalimat_audio": "Cut the paper with scissors.",
-      "bagian_jebakan": { "huruf": "sc", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "sc",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_c"
     },
     {
@@ -1581,7 +2281,11 @@
       "arti": "kembali",
       "cara_baca_lokal": "/bak/",
       "kalimat_audio": "Go back home.",
-      "bagian_jebakan": { "huruf": "ck", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "ck",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "silent_c"
     },
     {
@@ -1590,7 +2294,11 @@
       "arti": "melihat (lampau)",
       "cara_baca_lokal": "/so/",
       "kalimat_audio": "I saw a bird.",
-      "bagian_jebakan": { "huruf": "aw", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "aw",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "vowel_aw_au"
     },
     {
@@ -1599,7 +2307,11 @@
       "arti": "cakar",
       "cara_baca_lokal": "/klo/",
       "kalimat_audio": "The cat has a sharp claw.",
-      "bagian_jebakan": { "huruf": "aw", "posisi_mulai": 2, "posisi_akhir": 3 },
+      "bagian_jebakan": {
+        "huruf": "aw",
+        "posisi_mulai": 2,
+        "posisi_akhir": 3
+      },
       "id_hukum": "vowel_aw_au"
     },
     {
@@ -1608,7 +2320,11 @@
       "arti": "karena",
       "cara_baca_lokal": "/bi-koz/",
       "kalimat_audio": "Because I said so.",
-      "bagian_jebakan": { "huruf": "au", "posisi_mulai": 4, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "au",
+        "posisi_mulai": 4,
+        "posisi_akhir": 5
+      },
       "id_hukum": "vowel_aw_au"
     },
     {
@@ -1617,7 +2333,11 @@
       "arti": "musim gugur",
       "cara_baca_lokal": "/o-tem/",
       "kalimat_audio": "Autumn is beautiful.",
-      "bagian_jebakan": { "huruf": "au", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "au",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "vowel_aw_au"
     },
     {
@@ -1626,7 +2346,11 @@
       "arti": "menebak",
       "cara_baca_lokal": "/ges/",
       "kalimat_audio": "Guess what I have.",
-      "bagian_jebakan": { "huruf": "u", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "u",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_u"
     },
     {
@@ -1635,7 +2359,11 @@
       "arti": "tamu",
       "cara_baca_lokal": "/gest/",
       "kalimat_audio": "You are my guest.",
-      "bagian_jebakan": { "huruf": "u", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "u",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_u"
     },
     {
@@ -1644,7 +2372,11 @@
       "arti": "gitar",
       "cara_baca_lokal": "/gi-tar/",
       "kalimat_audio": "I play the guitar.",
-      "bagian_jebakan": { "huruf": "u", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "u",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "silent_u"
     },
     {
@@ -1653,7 +2385,11 @@
       "arti": "lidah",
       "cara_baca_lokal": "/tang/",
       "kalimat_audio": "Stick out your tongue.",
-      "bagian_jebakan": { "huruf": "ue", "posisi_mulai": 4, "posisi_akhir": 5 },
+      "bagian_jebakan": {
+        "huruf": "ue",
+        "posisi_mulai": 4,
+        "posisi_akhir": 5
+      },
       "id_hukum": "silent_u"
     },
     {
@@ -1662,7 +2398,11 @@
       "arti": "ke (kata depan)",
       "cara_baca_lokal": "/tu/",
       "kalimat_audio": "I go to school.",
-      "bagian_jebakan": { "huruf": "o", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "o",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "homofon_lanjutan"
     },
     {
@@ -1671,7 +2411,11 @@
       "arti": "juga / terlalu",
       "cara_baca_lokal": "/tu/",
       "kalimat_audio": "I want to go too.",
-      "bagian_jebakan": { "huruf": "oo", "posisi_mulai": 1, "posisi_akhir": 2 },
+      "bagian_jebakan": {
+        "huruf": "oo",
+        "posisi_mulai": 1,
+        "posisi_akhir": 2
+      },
       "id_hukum": "homofon_lanjutan"
     },
     {
@@ -1680,7 +2424,11 @@
       "arti": "dua",
       "cara_baca_lokal": "/tu/",
       "kalimat_audio": "I have two hands.",
-      "bagian_jebakan": { "huruf": "w", "posisi_mulai": 1, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "w",
+        "posisi_mulai": 1,
+        "posisi_akhir": 1
+      },
       "id_hukum": "homofon_lanjutan"
     },
     {
@@ -1689,7 +2437,11 @@
       "arti": "menulis",
       "cara_baca_lokal": "/rait/",
       "kalimat_audio": "Write your name here.",
-      "bagian_jebakan": { "huruf": "wr", "posisi_mulai": 0, "posisi_akhir": 1 },
+      "bagian_jebakan": {
+        "huruf": "wr",
+        "posisi_mulai": 0,
+        "posisi_akhir": 1
+      },
       "id_hukum": "homofon_lanjutan"
     },
     {
@@ -1698,7 +2450,11 @@
       "arti": "kanan / benar",
       "cara_baca_lokal": "/rait/",
       "kalimat_audio": "Turn right at the corner.",
-      "bagian_jebakan": { "huruf": "gh", "posisi_mulai": 3, "posisi_akhir": 4 },
+      "bagian_jebakan": {
+        "huruf": "gh",
+        "posisi_mulai": 3,
+        "posisi_akhir": 4
+      },
       "id_hukum": "homofon_lanjutan"
     }
   ]
