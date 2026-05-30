@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { useEffect } from 'react';
+import { BrowserRouter, Routes, Route, useNavigate } from 'react-router-dom';
 import { GameProvider } from './context/GameContext';
 import { HomePage } from './pages/HomePage';
 import { ModulePage } from './pages/ModulePage';
@@ -11,10 +12,37 @@ import { RoadmapPage } from './pages/RoadmapPage';
 import { Footer } from './components/Footer';
 import styles from './App.module.css';
 
+function BackButtonHandler() {
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    let unregister: (() => void) | undefined;
+
+    import('@capacitor/app').then(({ App }) => {
+      App.addListener('backButton', ({ canGoBack }) => {
+        if (canGoBack) {
+          navigate(-1);
+        } else {
+          App.exitApp();
+        }
+      }).then((listener) => {
+        unregister = listener.remove;
+      });
+    });
+
+    return () => {
+      unregister?.();
+    };
+  }, [navigate]);
+
+  return null;
+}
+
 function App() {
   return (
     <BrowserRouter>
       <GameProvider>
+        <BackButtonHandler />
         <div className={styles.app}>
           <div className={styles.content}>
             <Routes>
