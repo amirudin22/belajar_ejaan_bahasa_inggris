@@ -32,5 +32,4 @@ dist-ssr
 # Capacitor
 android/
 ios/
-*.apk
 *.aab

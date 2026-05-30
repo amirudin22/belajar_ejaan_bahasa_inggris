@@ -33,6 +33,18 @@
   color: #4ecca3;
 }
 
+.downloadLink {
+  color: #e94560;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.downloadLink:hover {
+  color: #ff6b81;
+}
+
 .copyright {
   color: #444;
   font-size: 11px;

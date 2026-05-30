@@ -16,6 +16,9 @@ export function Footer() {
         <button className={styles.link} onClick={() => navigate('/reference')}>
           Glosarium
         </button>
+        <a href="/PolaEja.apk" download className={styles.downloadLink}>
+          Download APK
+        </a>
       </div>
       <p className={styles.copyright}>
         PolaEja by AyahNAyla &copy; {new Date().getFullYear()}
