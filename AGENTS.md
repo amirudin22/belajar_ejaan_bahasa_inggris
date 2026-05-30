@@ -15,7 +15,9 @@ Active implementation — Vite + React + TypeScript SPA. Planning docs coexist a
 
 ## Project identity
 
-**English SpellMaster** — a Vite + React + TypeScript SPA that teaches English spelling to Indonesian speakers using a "Spelling Law" approach (analogous to Tajwid rules for Quran reading).
+**PolaEja** (formerly English SpellMaster) — a Vite + React + TypeScript SPA that teaches English spelling to Indonesian speakers using a "Spelling Law" approach (inspired by Tajwid rules for Quran reading).
+- Capacitor Android app with online-first mode (loads from Vercel)
+- GitHub Actions builds APK on push to `main`
 
 ## Auto-loaded instructions (via `opencode.json`)
 

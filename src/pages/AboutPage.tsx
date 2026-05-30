@@ -17,12 +17,12 @@ export function AboutPage() {
         &larr; Kembali
       </button>
 
-      <h1 className={styles.title}>Tentang English SpellMaster</h1>
+      <h1 className={styles.title}>Tentang PolaEja</h1>
 
       <section className={styles.section}>
         <h2 className={styles.sectionTitle}>Apa Ini?</h2>
         <p className={styles.text}>
-          <strong>English SpellMaster</strong> adalah aplikasi interaktif untuk membantu penutur bahasa Indonesia
+          <strong>PolaEja</strong> adalah aplikasi interaktif untuk membantu penutur bahasa Indonesia
           menguasai ejaan bahasa Inggris melalui pendekatan <strong>"Hukum Ejaan" (Spelling Laws)</strong> —
           terinspirasi dari cara belajar Tajwid dalam membaca Al-Qur'an.
         </p>

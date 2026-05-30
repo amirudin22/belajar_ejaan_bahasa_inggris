@@ -1,5 +1,5 @@
 {
-  "name": "english-spellmaster",
+  "name": "polaeja",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/android": "^8.3.4",
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.6.5",
+    "@capacitor/core": "^8.3.4",
+    "@capacitor/splash-screen": "^8.0.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "react-router-dom": "^7.16.0"

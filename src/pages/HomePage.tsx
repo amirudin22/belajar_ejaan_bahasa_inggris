@@ -9,7 +9,7 @@ export function HomePage() {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <h1 className={styles.title}>English SpellMaster</h1>
+        <h1 className={styles.title}>PolaEja</h1>
         <div className={styles.stat}>
           <div className={styles.statValue}>{profile.xp}</div>
           <div className={styles.statLabel}>XP</div>

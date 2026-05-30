@@ -18,7 +18,7 @@ export function Footer() {
         </button>
       </div>
       <p className={styles.copyright}>
-        AyahNayla &copy; {new Date().getFullYear()}
+        PolaEja by AyahNAyla &copy; {new Date().getFullYear()}
       </p>
     </footer>
   );
