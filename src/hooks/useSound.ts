@@ -2,20 +2,23 @@ import { useCallback } from 'react';
 
 const audioCtxRef: { current: AudioContext | null } = { current: null };
 
-function getCtx(): AudioContext {
+async function getCtx(): Promise<AudioContext> {
   if (!audioCtxRef.current) {
     audioCtxRef.current = new AudioContext();
+  }
+  if (audioCtxRef.current.state === 'suspended') {
+    await audioCtxRef.current.resume();
   }
   return audioCtxRef.current;
 }
 
-function playTone(
+async function playTone(
   frequency: number,
   duration: number,
   type: OscillatorType,
   gain: number = 0.3,
 ) {
-  const ctx = getCtx();
+  const ctx = await getCtx();
   const osc = ctx.createOscillator();
   const vol = ctx.createGain();
   osc.type = type;

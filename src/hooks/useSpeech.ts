@@ -1,33 +1,43 @@
-import { useCallback, useState, useEffect } from 'react';
+import { useCallback, useState, useEffect, useRef } from 'react';
 
 export type SpeechSpeed = 'normal' | 'slow';
 
 export function useSpeech() {
-  const [voicesReady, setVoicesReady] = useState(
-    () => window.speechSynthesis?.getVoices().length > 0,
-  );
+  const [voicesReady, setVoicesReady] = useState(false);
+  const readyRef = useRef(false);
 
   useEffect(() => {
-    if (window.speechSynthesis?.getVoices().length > 0) {
-      setVoicesReady(true);
-      return;
-    }
-    const handler = () => setVoicesReady(true);
-    window.speechSynthesis?.addEventListener('voiceschanged', handler);
+    const check = () => {
+      const available = window.speechSynthesis?.getVoices().length > 0;
+      if (available && !readyRef.current) {
+        readyRef.current = true;
+        setVoicesReady(true);
+      }
+    };
+
+    check();
+    window.speechSynthesis?.addEventListener('voiceschanged', check);
     return () =>
-      window.speechSynthesis?.removeEventListener('voiceschanged', handler);
+      window.speechSynthesis?.removeEventListener('voiceschanged', check);
   }, []);
 
   const speak = useCallback(
     (text: string, speed: SpeechSpeed = 'normal') => {
-      if (!window.speechSynthesis || !voicesReady) return;
+      if (!window.speechSynthesis) return;
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = 'en-US';
       utterance.rate = speed === 'slow' ? 0.6 : 0.85;
+
+      const voices = window.speechSynthesis.getVoices();
+      const enVoice = voices.find(
+        (v) => v.lang.startsWith('en') && v.localService,
+      );
+      if (enVoice) utterance.voice = enVoice;
+
       window.speechSynthesis.speak(utterance);
     },
-    [voicesReady],
+    [],
   );
 
   return { speak, voicesReady } as const;
