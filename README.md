@@ -41,6 +41,3 @@ Materi disusun berdasarkan **Tingkat Kesulitan & Anomali ("Troublemakers")**, bu
 5. **Bagian 5: Level Boss (Anomali Acak)**
    * Grup "-OUGH" yang Menjebak (enough, though, through, cough)
    * Homophones (their/there/they're)
-
----
-*Proyek ini masih dalam tahap diskusi arsitektur dan pemilihan teknologi (Framework & Bahasa Pemrograman).*
