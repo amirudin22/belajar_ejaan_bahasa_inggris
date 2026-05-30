@@ -115,7 +115,6 @@ export function PlayPage() {
         typed: feedback.typed,
         rule: feedback.rule,
       });
-      setShowHukum(true);
     }
     setTyped('');
     setNotes('');
